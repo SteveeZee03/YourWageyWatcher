@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.18.2",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.1.0"
+  },
+  "scripts": {
+    "start": ""
+  },
+  "name": "yourwageywatcher",
+  "version": "1.0.0",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveeZee03/YourWageyWatcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveeZee03/YourWageyWatcher/issues"
+  },
+  "homepage": "https://github.com/SteveeZee03/YourWageyWatcher#readme",
+  "description": ""
+}
