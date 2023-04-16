@@ -22,7 +22,7 @@ npm i
 
 ## <b>Usage</b>
 Video Demonstration: <br>
-Assets\Demo
+<a href="https://github.com/SteveeZee03/YourWageyWatcher/tree/main/Assets/Demo"> Assets\Demo </a>
 
 ## <b>License</b>
 This project is licensed under the MIT license.
