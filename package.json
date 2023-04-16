@@ -10,14 +10,14 @@
   },
   "name": "yourwageywatcher",
   "version": "1.0.0",
-  "main": "",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SteveeZee03/YourWageyWatcher.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "",
   "bugs": {
     "url": "https://github.com/SteveeZee03/YourWageyWatcher/issues"
   },
